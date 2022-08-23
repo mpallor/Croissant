@@ -1,0 +1,16 @@
+body {
+  background-color: bisque;
+  text-align: center;
+}
+
+.contact {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+.picture {
+  margin-bottom: 50px;
+}
+.email {
+  margin-bottom: 50px;
+}
